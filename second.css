@@ -1,0 +1,103 @@
+body{
+    color: #40514E;
+    
+    text-align: center;
+    
+}
+h1{
+    font-size: 4rem;
+    margin: 0 auto 0 auto;
+    color: #77D970;
+    font-family: 'Signika Negative', sans-serif;
+ 
+}
+h2{
+    color: #77D970 ;
+}
+h3{
+    color: #334756;
+}
+.profile{
+    height: 150px;
+    width: 150px;
+}
+.img-1{
+    position: relative;
+    right: 300px;
+    height: 200px;
+    width: 200px;
+}
+.img-2{
+    position: relative;
+    left: 550px;
+    bottom: 300px;
+    height: 200px;
+    width: 200px;
+}
+.img-3{
+    position: relative;
+    right: 100px;
+    height: 300px;
+    width: 500px;
+}
+.hobby-1{
+    height: 200px;
+    width: 200px;
+    
+}
+.hobby-2{
+   
+    width: 200px;
+    height: 200px;
+    
+    
+}
+
+.hobby-3{
+    width: 200px;
+    height: 200px;
+   
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+    color: #EAF6F6;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+p{
+    line-height: 2;
+}
+.middle{
+    margin: 100px auto auto auto;
+}
+.bottom-container{
+    padding: 20px;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #3498db;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+  }
+  .top{
+    background-color:#cdf2ca ;
+    position: relative;
+    bottom: 10px;
+    right: auto;
+    
+     
+  }
